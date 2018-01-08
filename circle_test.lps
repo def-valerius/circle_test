@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="10"/>
+    <BuildModes Active="Default"/>
+    <Units Count="19">
+      <Unit0>
+        <Filename Value="circle_test.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="2"/>
+        <CursorPos X="17" Y="21"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="unit1.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="Unit1"/>
+        <CursorPos X="65" Y="14"/>
+        <UsageCount Value="88"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="unit2.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form2"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="Unit2"/>
+        <EditorIndex Value="3"/>
+        <TopLine Value="146"/>
+        <CursorPos X="53" Y="166"/>
+        <UsageCount Value="59"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="vars.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="7"/>
+        <CursorPos X="75" Y="25"/>
+        <UsageCount Value="57"/>
+        <Loaded Value="True"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="openal.pas"/>
+        <EditorIndex Value="4"/>
+        <TopLine Value="1862"/>
+        <CursorPos X="36" Y="1887"/>
+        <UsageCount Value="39"/>
+        <Loaded Value="True"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="P:\Lazarus64bit\lcl\include\control.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="3954"/>
+        <CursorPos X="45" Y="3975"/>
+        <UsageCount Value="18"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="P:\Lazarus64bit\lcl\include\application.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="425"/>
+        <CursorPos Y="452"/>
+        <UsageCount Value="7"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="P:\Lazarus64bit\lcl\interfaces\win32\win32object.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="143"/>
+        <CursorPos Y="167"/>
+        <UsageCount Value="7"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="P:\Lazarus64bit\components\lazutils\lazutf8.pas"/>
+        <UnitName Value="LazUTF8"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="3552"/>
+        <CursorPos Y="3559"/>
+        <UsageCount Value="7"/>
+      </Unit8>
+      <Unit9>
+        <Filename Value="P:\Lazarus64bit\lcl\lclproc.pas"/>
+        <UnitName Value="LCLProc"/>
+        <EditorIndex Value="5"/>
+        <TopLine Value="881"/>
+        <CursorPos X="64" Y="896"/>
+        <UsageCount Value="34"/>
+        <Loaded Value="True"/>
+      </Unit9>
+      <Unit10>
+        <Filename Value="P:\Lazarus64bit\fpc\3.0.2\source\rtl\inc\systemh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="720"/>
+        <CursorPos X="12" Y="737"/>
+        <UsageCount Value="5"/>
+      </Unit10>
+      <Unit11>
+        <Filename Value="P:\Lazarus64bit\lcl\extctrls.pp"/>
+        <UnitName Value="ExtCtrls"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="242"/>
+        <CursorPos X="3" Y="258"/>
+        <UsageCount Value="7"/>
+      </Unit11>
+      <Unit12>
+        <Filename Value="P:\Lazarus64bit\lcl\interfaces\win32\win32proc.pp"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="790"/>
+        <CursorPos Y="811"/>
+        <UsageCount Value="7"/>
+      </Unit12>
+      <Unit13>
+        <Filename Value="P:\Lazarus64bit\lcl\interfaces\win32\win32winapi.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="2855"/>
+        <CursorPos Y="2872"/>
+        <UsageCount Value="7"/>
+      </Unit13>
+      <Unit14>
+        <Filename Value="P:\Lazarus64bit\lcl\include\screen.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="255"/>
+        <CursorPos Y="274"/>
+        <UsageCount Value="7"/>
+      </Unit14>
+      <Unit15>
+        <Filename Value="P:\Lazarus64bit\lcl\include\winapi.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="784"/>
+        <CursorPos Y="801"/>
+        <UsageCount Value="7"/>
+      </Unit15>
+      <Unit16>
+        <Filename Value="P:\Lazarus64bit\lcl\lresources.pp"/>
+        <UnitName Value="LResources"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1488"/>
+        <CursorPos Y="1508"/>
+        <UsageCount Value="7"/>
+      </Unit16>
+      <Unit17>
+        <Filename Value="P:\Lazarus64bit\lcl\include\icon.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="458"/>
+        <CursorPos Y="475"/>
+        <UsageCount Value="7"/>
+      </Unit17>
+      <Unit18>
+        <Filename Value="P:\Lazarus64bit\lcl\include\rasterimage.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="795"/>
+        <CursorPos X="51" Y="810"/>
+        <UsageCount Value="7"/>
+      </Unit18>
+    </Units>
+    <JumpHistory Count="25" HistoryIndex="24">
+      <Position1>
+        <Filename Value="openal.pas"/>
+        <Caret Line="77" Column="5" TopLine="55"/>
+      </Position1>
+      <Position2>
+        <Filename Value="openal.pas"/>
+        <Caret Line="1945" Column="5" TopLine="1924"/>
+      </Position2>
+      <Position3>
+        <Filename Value="openal.pas"/>
+        <Caret Line="88" Column="32" TopLine="49"/>
+      </Position3>
+      <Position4>
+        <Filename Value="openal.pas"/>
+        <Caret Line="1946" Column="65" TopLine="1936"/>
+      </Position4>
+      <Position5>
+        <Filename Value="openal.pas"/>
+        <Caret Line="1980" Column="6" TopLine="1960"/>
+      </Position5>
+      <Position6>
+        <Filename Value="openal.pas"/>
+        <Caret Line="51" Column="3" TopLine="34"/>
+      </Position6>
+      <Position7>
+        <Filename Value="openal.pas"/>
+        <Caret Line="1958" Column="29" TopLine="1942"/>
+      </Position7>
+      <Position8>
+        <Filename Value="openal.pas"/>
+        <Caret Line="1953" Column="12" TopLine="1937"/>
+      </Position8>
+      <Position9>
+        <Filename Value="openal.pas"/>
+        <Caret Line="1958" Column="29" TopLine="1942"/>
+      </Position9>
+      <Position10>
+        <Filename Value="openal.pas"/>
+        <Caret Line="1966" Column="28" TopLine="1950"/>
+      </Position10>
+      <Position11>
+        <Filename Value="openal.pas"/>
+        <Caret Line="1887" Column="22" TopLine="1871"/>
+      </Position11>
+      <Position12>
+        <Filename Value="unit1.pas"/>
+        <Caret Line="9" Column="50"/>
+      </Position12>
+      <Position13>
+        <Filename Value="unit1.pas"/>
+        <Caret Line="103" Column="74" TopLine="78"/>
+      </Position13>
+      <Position14>
+        <Filename Value="unit1.pas"/>
+        <Caret Line="309" Column="46" TopLine="292"/>
+      </Position14>
+      <Position15>
+        <Filename Value="P:\Lazarus64bit\lcl\lclproc.pas"/>
+        <Caret Line="904" Column="69" TopLine="881"/>
+      </Position15>
+      <Position16>
+        <Filename Value="unit1.pas"/>
+        <Caret Line="308" Column="68" TopLine="292"/>
+      </Position16>
+      <Position17>
+        <Filename Value="unit1.pas"/>
+        <Caret Line="314" Column="85" TopLine="292"/>
+      </Position17>
+      <Position18>
+        <Filename Value="unit1.pas"/>
+        <Caret Line="326" Column="47" TopLine="301"/>
+      </Position18>
+      <Position19>
+        <Filename Value="unit1.pas"/>
+        <Caret Line="281" Column="45" TopLine="264"/>
+      </Position19>
+      <Position20>
+        <Filename Value="unit1.pas"/>
+        <Caret Line="289" Column="75" TopLine="264"/>
+      </Position20>
+      <Position21>
+        <Filename Value="unit1.pas"/>
+        <Caret Line="279" Column="57" TopLine="249"/>
+      </Position21>
+      <Position22>
+        <Filename Value="unit1.pas"/>
+        <Caret Line="307" Column="21" TopLine="298"/>
+      </Position22>
+      <Position23>
+        <Filename Value="unit1.pas"/>
+        <Caret Line="311" Column="50" TopLine="298"/>
+      </Position23>
+      <Position24>
+        <Filename Value="unit1.pas"/>
+        <Caret Line="326" Column="49" TopLine="298"/>
+      </Position24>
+      <Position25>
+        <Filename Value="unit1.pas"/>
+        <Caret Line="328" Column="68" TopLine="298"/>
+      </Position25>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>
