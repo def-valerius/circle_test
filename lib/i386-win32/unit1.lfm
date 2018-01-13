@@ -1,7 +1,7 @@
 object Form1: TForm1
-  Left = 859
+  Left = 726
   Height = 767
-  Top = 137
+  Top = 116
   Width = 680
   Caption = 'main'
   ClientHeight = 747
@@ -33905,8 +33905,15 @@ object Form1: TForm1
     OnChangeBounds = Shape1ChangeBounds
     Shape = stCircle
   end
+  object Image2: TImage
+    Left = 0
+    Height = 936
+    Top = 0
+    Width = 1666
+    Transparent = True
+  end
   object Timer1: TTimer
-    Interval = 1
+    Interval = 5
     OnTimer = Timer1Timer
     left = 328
     top = 648

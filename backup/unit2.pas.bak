@@ -16,6 +16,7 @@ type
     Button1: TButton;
     Button2: TButton;
     bh_g: TEdit;
+    Button3: TButton;
     Label10: TLabel;
     Label11: TLabel;
     Label8: TLabel;
@@ -40,6 +41,7 @@ type
     uprug: TEdit;
     procedure Button1Click(Sender: TObject);
     procedure Button2Click(Sender: TObject);
+    procedure Button3Click(Sender: TObject);
     procedure FormCreate(Sender: TObject);
     procedure file_test;
     procedure ToggleBox1Change(Sender: TObject);
@@ -93,6 +95,11 @@ begin
 
       readln(f1,s);
       vars.bhg:=strtofloat(s);
+
+      readln(f1,s);
+      if s='1' then
+        vars.loop_world:=true
+      else vars.loop_world:=false;
 
       closefile(f1);
     end
@@ -187,6 +194,9 @@ begin
   if vars.loop_world then
     writeln(f1,'1')
   else writeln(f1,'0');
+  if vars.trail then
+    writeln(f1,'1')
+  else writeln(f1,'0');
 
   closefile(f1);
 end;
@@ -194,6 +204,14 @@ end;
 procedure TForm2.Button2Click(Sender: TObject);
 begin
 
+end;
+
+procedure TForm2.Button3Click(Sender: TObject);
+begin
+  if vars.trail then
+     vars.trail:=false
+  else
+     vars.trail:=true;
 end;
 
 end.

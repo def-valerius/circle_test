@@ -34,6 +34,7 @@ var bhx, //"черная дыра X
     usk_upr,    //ускорение в управлении
     zamedl:     //сопротивление "воздуха"
     double;
+    loop_world:boolean; //залупить мир?
 
 implementation
 

@@ -26,6 +26,7 @@ type {
   TForm1 = class(TForm)
     Button1: TButton;
     Image1: TImage;
+    Image2: TImage;
     Label1: TLabel;
     Label10: TLabel;
     Label11: TLabel;
@@ -252,6 +253,9 @@ begin
     32:begin
          vars.circle1.vx:=0;
          vars.circle1.vy:=0;
+         image2.Canvas.FloodFill(1,1,clBlack,fsSurface);
+         image2.Canvas.Clear;
+
        end;
     87:vars.circle1.napr[0]:=true;
     83:vars.circle1.napr[1]:=true;
@@ -423,7 +427,9 @@ begin
       uskor3:=uskor3+(uskor2-uskor1);
     end;
   label11.Caption:=floattostr(uskor3); }
-
+  //some kind of a trail
+  if vars.trail then
+    image2.Canvas.Pixels[round(circle1.px),round(circle1.py)]:=clRed;
 end;
 
 procedure draw.execute;

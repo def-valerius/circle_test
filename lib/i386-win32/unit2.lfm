@@ -229,4 +229,13 @@ object Form2: TForm2
     OnChange = ToggleBox1Change
     TabOrder = 4
   end
+  object Button3: TButton
+    Left = 16
+    Height = 24
+    Top = 432
+    Width = 91
+    Caption = '"хвост"'
+    OnClick = Button3Click
+    TabOrder = 5
+  end
 end

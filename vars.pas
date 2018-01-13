@@ -35,6 +35,7 @@ var bhx, //"черная дыра X
     zamedl:     //сопротивление "воздуха"
     double;
     loop_world:boolean; //залупить мир?
+    trail:boolean; //хвост за точкой
 
 implementation
 
